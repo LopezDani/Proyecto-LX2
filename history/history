@@ -1,0 +1,1000 @@
+  546  dmesg 
+  547  fg
+  548  micomando
+  549  vim .bashrc 
+  550  source .bashrc
+  551  micomando
+  552  dmesg | grep --color=auto init
+  553  vim .bashrc 
+  554  ls -l
+  555  ls -l -a
+  556  ls -la
+  557  apt-cache search vim
+  558  apt-cache search vim | grep gtk
+  559  sudo apt-get install vim-gtk
+  560  gvim
+  561  ls
+  562  mkdir tmp
+  563  cd t,
+  564  cd tmp/
+  565  ls
+  566  vim test1.sh
+  567  ls -l
+  568  bash test1.sh 
+  569  vim test1.sh
+  570  cat test1.sh 
+  571  cd ..
+  572  mkdir bin
+  573  ls
+  574  cd bin/
+  575  l;s
+  576  ls
+  577  touch algo1
+  578  ls
+  579  touch algo2
+  580  touch algo3
+  581  touch algo4
+  582  touch algo5
+  583  dmesg > algo3
+  584  htop
+  585  man sleep
+  586  sleep 2
+  587  htop
+  588  watch -n 1 "ps aux | tail"
+  589  watch -n 1 "ps aux | tail -n 20"
+  590  cd tmp/
+  591  ls
+  592  vim test1.sh 
+  593  cat test1.sh
+  594  ls
+  595  cd ..
+  596  ls
+  597  cd tmp/
+  598  cd ..
+  599  ls
+  600  cd tmp/`
+  601  cd tmp/
+  602  ls
+  603  ls -l
+  604  ls -lh
+  605  chmod +x test1.sh 
+  606  ls -lh
+  607  chmod 700 test1.sh 
+  608  ls -lh
+  609  ./test1.sh 
+  610  ls -la ../
+  611  ls -a ../
+  612  ls -la ../
+  613  ls -lah ../
+  614  ls -la ../
+  615  df -lh
+  616  df -l
+  617  df -l | grep sda
+  618  df -l | grep sda6
+  619  df -l | grep sda6 | cut -d " " -f2 
+  620  df -l | grep sda6 | cut -d " " -f1 
+  621  df -l | grep sda6 | cut -d " " -f3 
+  622  df -l | grep sda6 | cut -d " " -f4
+  623  df -l | grep sda6 | cut -d " " -f5
+  624  df -l | grep sda6 | cut -d " " -f6
+  625  df -l | grep sda6 | cut -d " " -f7
+  626  df -l | grep sda6 | cut -d " " -f8
+  627  df -lh | grep sda6 | cut -d " " -f8
+  628  ls
+  629  jobs
+  630  history 
+  631  cd /usr/share/doc
+  632  ls
+  633  cd vim-common/
+  634  ls
+  635  cd ..
+  636  ls
+  637  cd vim-common/
+  638  ls
+  639  pwd
+  640  cd /etc/apache2/sites-available/
+  641  cd 
+  642  ls
+  643  cd /etc/apache2/sites-available/
+  644  vf 
+  645  cd 
+  646  cd tmp/
+  647  ls
+  648  vim test1.sh 
+  649  ls /etc/init.d/
+  650  cd /etc/rc2.d/
+  651  ;s
+  652  ls
+  653  cd ../init.d/
+  654  ls
+  655  vim apache2 
+  656  cd 
+  657  cd tmp/
+  658  l;s
+  659  ls
+  660  vim test1.sh 
+  661  ./test1.sh 
+  662  vim test1.sh 
+  663  ./test1.sh 
+  664  vim test1.sh 
+  665  ./test1.sh 
+  666  vim test1.sh 
+  667  cat test1.sh 
+  668  ./test1.sh 
+  669  vim test1.sh .
+  670  ./test1.sh 
+  671  vim test1.sh .
+  672  vim test1.sh
+  673  ./test1.sh 
+  674  ls
+  675  wich ls
+  676  which ls
+  677  cp /bin/ls
+  678  cp /bin/ls .
+  679  ls
+  680  ls -l
+  681  file test1.sh 
+  682  file ls
+  683  ls -l
+  684  ls -lh
+  685  hexdump -C ls | less
+  686  ./ls 
+  687  ./ls -l
+  688  /bin/ls -l
+  689  cd 
+  690  cd /etc/apache2/sites-available/
+  691  ls
+  692  /home/instructor/tmp/ls -l
+  693  cd 
+  694  tmp/ls -l
+  695  cd Documents/
+  696  ls
+  697  ../tmp/ls -la
+  698  lcd 
+  699  cd 
+  700  ls
+  701  cd tmp/
+  702  ls
+  703  vim ls 
+  704  vim test1.sh 
+  705  ./test1.sh 
+  706  vim test1.sh 
+  707  ./test1.sh 
+  708  vim test1.sh 
+  709  ./test1.sh 
+  710  vim test1.sh 
+  711  ./test1.sh 
+  712  ./test1.sh s d f
+  713  ./test1.sh -s -d    -f
+  714  ./test1.sh -s -d   -f
+  715  ./test1.sh -s -d   -f gy
+  716  ls
+  717  ./test1.sh miarchivo
+  718  ls
+  719  ./test1.sh miarchivo
+  720  ls
+  721  dmesg > archivo1.txt
+  722  rm test1.sh.error 
+  723  ls
+  724  rm miarchivo.error 
+  725  ./test1.sh miarchivo
+  726  ls
+  727  ./test1.sh miarchivo
+  728  history 
+  729  ls
+  730  ls -la
+  731  ls -l -a -h
+  732  ls     -l -a -h
+  733  cd tmp/
+  734  ls
+  735  vim test1.sh 
+  736  ./test1.sh --a --e hola
+  737  vim test1.sh 
+  738  ./test1.sh --a --e hola
+  739  cat test1.sh 
+  740  ./test1.sh --a --e hola
+  741  ./test1.sh a e hola
+  742  ./test1.sh estaesmiprimeraVariable e hola
+  743  ls -alh
+  744  ls
+  745  mkdir algo/otro/este
+  746  mkdir -p algo{1,2}/otro/este
+  747  mkdir p algo{1,2}/otro/este
+  748  tree
+  749  cat test1.sh 
+  750  vim test1.sh
+  751  ls
+  752  history > history_20160310
+  753  ls
+  754  cd ..
+  755  ls
+  756  tar -czf clase_20160310.tar.gz tmp/
+  757  cp clase_20160310.tar.gz /media/instructor/uk/
+  758  set 
+  759  set | grep IFS
+  760  #git clone git@git.beta.ucr.ac.cr:EMMANUEL.VARGAS/scripts-nivel-2.gi 
+  761  cd Downloads/
+  762  ls
+  763  cd scripts-nivel-2-master-c498c837c70883b0e7e9b5b0bcbf125828ad88e4/
+  764  ls
+  765  cd src/
+  766  ls
+  767  git log
+  768  sudo apt-get install git
+  769  ls
+  770  cp algo.txt file.txt
+  771  echo $?
+  772  ls
+  773  echo $?
+  774  sudo apt-get install git
+  775  git log
+  776  ls
+  777  cd .
+  778  ls
+  779  cd 
+  780  cd /media/instructor/uk/
+  781  ls
+  782  cd LXS2/
+  783  ls
+  784  cd docs/
+  785  ls
+  786  cd src/
+  787  kls
+  788  ls
+  789  git status 
+  790  git log 
+  791  apt-cache search gitk
+  792  sudo apt-get install gitk
+  793  gitk
+  794  ls
+  795  gitk
+  796  cat IFS.sh 
+  797  ls
+  798  cat IFS.sh 
+  799  ls
+  800  cat SpecVar.sh 
+  801  ls
+  802  cat SpecVar.sh 
+  803  git log
+  804  apt-cache search gourse
+  805  apt-cache search gurse
+  806  apt-cache search surse
+  807  apt-cache search gource
+  808  sudo apt-get install gource
+  809  gource .
+  810  ls
+  811  cat SpecVar.sh 
+  812  ls
+  813  cd ..
+  814  ls
+  815  cd .
+  816  ls
+  817  exit
+  818  mkdir Clase
+  819  mv Clase/ Clase1_Bash
+  820  cd Clase1_Bash/
+  821  ls
+  822  git init 
+  823  ls -l
+  824  ls -la
+  825  vim IFS.sh
+  826  vim SpecVar.sh
+  827  ls
+  828  bash IFS.sh 
+  829  set | grep IFS | head
+  830  bash IFS.sh 
+  831  git status 
+  832  ls
+  833  vim .gitignore
+  834  git status 
+  835  cat .gitignore 
+  836  history 
+  837  rm .gitignore 
+  838  echo "*.swp" > .gitignore
+  839  git status 
+  840  git add IFS.sh 
+  841  git add .gitignore 
+  842  git status 
+  843  git commit -m "Inicio del repositorio"
+  844  git config --global user.email "emmanuel.vargas@ucr.ac.cr"
+  845  git config --global user.name "Emmanuel Vargas"
+  846  git status
+  847  git commit -m "Inicio del repositorio"
+  848  git log
+  849  history 
+  850  git log
+  851  bash IFS.sh 
+  852  env VAR2=123 VAR3=asd bash IFS.sh 
+  853  echo $VAR1
+  854  echo $VAR2
+  855  echo $VAR3
+  856  VAR2=234
+  857  VAR3=dfg
+  858  bash IFS.sh
+  859  set | grep VAR
+  860  printenv | grep VAR
+  861  export VAR2
+  862  export VAR3
+  863  export VAR2 VAR3
+  864  set | grep VAR
+  865  printenv | grep VAR
+  866  bash IFS.sh
+  867  htop
+  868  git status 
+  869  git diff
+  870  git status 
+  871  git add IFS.sh 
+  872  git status 
+  873  git commit -m "Ejemplo de paso de variables al sistema"
+  874  git log
+  875  cat IFS.sh 
+  876  man ls 
+  877  man cp
+  878  ls
+  879  ls -l
+  880  git status
+  881  ls
+  882  bash SpecVar.sh 
+  883  bash SpecVar.sh casa
+  884  bash SpecVar.sh casa perro arbol 3
+  885  bash SpecVar.sh casa perro arbol
+  886  echo
+  887  git status
+  888  git add SpecVar.sh 
+  889  git status 
+  890  ls -l
+  891  git add SpecVar.sh 
+  892  ls -l
+  893  git status 
+  894  sudo update-alternatives --config editor 
+  895  sudo apt-get install vim-nox
+  896  sudo update-alternatives --config editor 
+  897  git commit 
+  898  git status 
+  899  git commit
+  900  git log
+  901  history 
+  902  bash SpecVar.sh 
+  903  bash SpecVar.sh casa perro arbol
+  904  history > historial_20160317_1810
+  905  less historial_20160317_1810
+  906  ld
+  907  ls
+  908  cd 
+  909  cat 
+  910  echi
+  911  pwd
+  912  less .bash_history 
+  913  exit
+  914  ls
+  915  bash case_ejm1.sh ubuntu
+  916  chmod 750 case_ejm1.sh 
+  917  ls -l
+  918  ./case_ejm1.sh 
+  919  ./case_ejm1.sh asd
+  920  ./case_ejm1.sh ubuntu
+  921  ./case_ejm1.sh uBUNTU
+  922  mount
+  923  ./case_ejm1.sh uBUNTU
+  924  shopt 
+  925  ./case_ejm1.sh uBUNTU
+  926  history 
+  927  ./case_ejm1.sh fgh dfgh fgh dfgh fjh 
+  928  df -l
+  929  df
+  930  df | awk '{print $5}'
+  931  df | awk '{print $5}' | grep Use
+  932  df | awk '{print $5}' | grep -v Use
+  933  df | awk '{print $5}' | grep -v Use | sort 
+  934  df | awk '{print $5}' | grep -v Use | sort -n
+  935  df | awk '{print $5}' | grep -v Use | sort -n | tail
+  936  df | awk '{print $5}' | grep -v Use | sort -n | head
+  937  df | awk '{print $5}' | grep -v Use | sort -n | tail -1
+  938  df | awk '{print $5}' | grep -v Use | sort -n | tail -2
+  939  df | awk '{print $5}' | grep -v Use | sort -n | tail -5
+  940  df | awk '{print $5}' | grep -v Use | sort -n | tail -1
+  941  df | awk '{print $5}' | grep -v Use | sort -n | tail -1 | cut -d "%" -f1
+  942  df | awk '{print $5}' | grep -v Use | sort -n | tail -1 | cut -d "%" --field=1
+  943  df | awk '{print $5}' | grep -v Use | sort -n | tail -1 | cut -d "%" -f "1"
+  944  dmesg | grep init 
+  945  dmesg | grep -v init 
+  946  df | awk '{print $5}' | grep -v Use | sort -n | tail -1 | cut -d "%" -f "1"
+  947  df -lh
+  948  ls
+  949  bash caseExm2.sh 
+  950  mail 
+  951  sudo apt-get install mailutils
+  952  mail 
+  953  bash caseExm2.sh 
+  954  cat /var/spool/mail/instructor 
+  955  date
+  956  bash caseExm2.sh 
+  957  less /var/log/mail.log 
+  958  sudo su -
+  959  bash caseExm2.sh 
+  960  less /var/log/mail.log 
+  961  sudo dpkg-reconfigure exim4
+  962  sudo dpkg-reconfigure exim4-config 
+  963  bash caseExm2.sh 
+  964  less /var/log/mail.log 
+  965  ls
+  966  bash caseExm2.sh 
+  967  ls /etc/exim4/
+  968  sudo update-exim4.conf
+  969  bash caseExm2.sh 
+  970  cat /var/log/mail.log 
+  971  history 
+  972  cat /etc/exim4/update-exim4.conf.conf 
+  973  sudo update-exim4.conf
+  974  bash caseExm2.sh 
+  975  cat /var/mail/instructor 
+  976  cd /media/instructor/
+  977  ls
+  978  cd uk/
+  979  ls
+  980  cd LXS2/
+  981  ls
+  982  cd docs/
+  983  ls
+  984  cd 
+  985  ls
+  986  cd -
+  987  ls
+  988  cd src/
+  989  ls
+  990  cat caseExm1.sh 
+  991  ls
+  992  ls -l
+  993  cat caseExm2.sh 
+  994  ls
+  995  ls -l
+  996  cat caseExm2.sh 
+  997  mail
+  998  ls
+  999  vim caseExm2.sh 
+ 1000  ls
+ 1001  vim case_InitScript.sh 
+ 1002  cd /media/
+ 1003  ls
+ 1004  cd instructor/
+ 1005  ls
+ 1006  cd uk/
+ 1007  ls
+ 1008  cd LXS2/
+ 1009  ls
+ 1010  cd docs/
+ 1011  ls
+ 1012  cd src/
+ 1013  ls
+ 1014  git status 
+ 1015  git add case_InitScript.sh 
+ 1016  git commit -m "Init script"
+ 1017  cd ..
+ 1018  ls
+ 1019  cd ..
+ 1020  ls
+ 1021  mkdirt tmp
+ 1022  mkdir tmp
+ 1023  ls
+ 1024  mv docs.tar.gz tmp/
+ 1025  ls
+ 1026  cd tmp/
+ 1027  ls
+ 1028  cp docs.tar.gz ~/Downloads/
+ 1029  ls
+ 1030  cd 
+ 1031  ls
+ 1032  pwd
+ 1033  cd Downloads/
+ 1034  ls
+ 1035  ls docs.tar.gz 
+ 1036  tar -xzf docs.tar.gz 
+ 1037  ls -ld docs*
+ 1038  mkdir tno
+ 1039  ls
+ 1040  cp docs.tar.gz tno/
+ 1041  cd tno/
+ 1042  ls
+ 1043  scp docs.tar.gz uk@lolo.emate.ucr.ac.cr:
+ 1044  scp uk@lolo.emate.ucr.ac.cr:docs.tar.gz ~
+ 1045  cd 
+ 1046  ls
+ 1047  history 
+ 1048  cd Desktop/
+ 1049  ls
+ 1050  cd 
+ 1051  cd Downloads/
+ 1052  ls
+ 1053  cd docs/
+ 1054  ls
+ 1055  tree
+ 1056  ls 
+ 1057  mkdir emma
+ 1058  cd emma/
+ 1059  kls
+ 1060  ls
+ 1061  ls -la
+ 1062  ls
+ 1063  vim ../src/SpecVar.sh 
+ 1064  ls
+ 1065  vim case_ejm1.sh
+ 1066  git status 
+ 1067  cd ..
+ 1068  ls
+ 1069  git status 
+ 1070  git add emma/case_ejm1.sh 
+ 1071  git status 
+ 1072  git commit -m "Ejemplo case 1"
+ 1073  git log
+ 1074  ls
+ 1075  cd emma/
+ 1076  ls
+ 1077  history 
+ 1078  less 
+ 1079  less ~/.gitconfig
+ 1080  git log
+ 1081  ls
+ 1082  vim caseExm2.sh
+ 1083  git status 
+ 1084  git add caseExm2.sh 
+ 1085  git status 
+ 1086  git commit -m "Ejemplo dos de correo electronico y case"
+ 1087  gitk
+ 1088  cd /media/
+ 1089  cd instructor/uk/
+ 1090  l;s
+ 1091  ls
+ 1092  cd LXS2/
+ 1093  ls
+ 1094  cd docs/
+ 1095  ls
+ 1096  git remote -v
+ 1097  git remote add origin https://github.com/emvarg/LX2_main_repo.git
+ 1098  git remote -v
+ 1099  git remote add github  https://github.com/emvarg/LX2_main_repo.git
+ 1100  git remote -v
+ 1101  git push -u github  master
+ 1102  git remote -v
+ 1103  git remote add mi_repo https://github.com/emvarg/repo1-Nivel2Linux.git
+ 1104  git remote -v
+ 1105  git push -u mi_repo  master
+ 1106  git remote -v
+ 1107  git remote --help
+ 1108  git remote remove mi_repo
+ 1109  git remote -v
+ 1110  git branch 
+ 1111  ls
+ 1112  mkdir history
+ 1113  ls
+ 1114  tree
+ 1115  cd history/
+ 1116  ls
+ 1117  history > history
+ 1118  git status 
+ 1119  cd ..
+ 1120  ls
+ 1121  git status 
+ 1122  git add history/
+ 1123  git commit -m "Agregue mi history"
+ 1124  git remote  -v
+ 1125  git push -u github master
+ 1126  history
+ 1127  ls -la
+ 1128  git status 
+ 1129  ls
+ 1130  mkdir hojasExcel
+ 1131  ls
+ 1132  cd hojasExcel/
+ 1133  ls
+ 1134  mkdir hojasDatos
+ 1135  cd j
+ 1136  cd hojasDatos/
+ 1137  ls
+ 1138  cd ..
+ 1139  ls
+ 1140  ls ../../clase5/S5/problemas/problema1/hojasDatos/
+ 1141  ls ../../clase5/S5/problemas/problema1/hojasDatos/ -l
+ 1142  ls
+ 1143  cd hojasDatos/
+ 1144  ls
+ 1145  cp ../../clase5/S5/problemas/problema1/hojasDatos/*.xls .
+ 1146  cp ../../../clase5/S5/problemas/problema1/hojasDatos/*.xls .
+ 1147  ls
+ 1148  ls /l
+ 1149  ls -l
+ 1150  cd ..
+ 1151  ls
+ 1152  cd ..
+ 1153  ls
+ 1154  cd h
+ 1155  cd hojasExcel/
+ 1156  ls
+ 1157  ls -l
+ 1158  mkdir src
+ 1159  ;s
+ 1160  ls
+ 1161  tree
+ 1162  sudo apt-get install catdoc
+ 1163  man catdoc
+ 1164  tree
+ 1165  ls
+ 1166  cd src/
+ 1167  ;s
+ 1168  ls
+ 1169  tree ../../../
+ 1170  tree ../..
+ 1171  ls
+ 1172  vim graficar.sh
+ 1173  exit
+ 1174  cd ..
+ 1175  ls
+ 1176  cd hojasDatos/
+ 1177  ls
+ 1178  ls -l
+ 1179  xls2csv datos1.xls 
+ 1180  nautilus .
+ 1181  xls2csv datos1.xls > dato_0.out 
+ 1182  less dato_0.out 
+ 1183  file dato_0.out 
+ 1184  ls
+ 1185  cd ..
+ 1186  ls
+ 1187  tree
+ 1188  cd src/
+ 1189  ls
+ 1190  bash graficar.sh 
+ 1191  tree ../
+ 1192  for archivo in `ls -l`; do echo $archivo; done
+ 1193  for archivo in ls -l; do echo $archivo; done
+ 1194  for archivo in find .../ -name "*.xls"; do echo $archivo; done
+ 1195  for archivo in `find .../ -name "*.xls"`; do echo $archivo; done
+ 1196  for archivo in `find ../ -name "*.xls"`; do echo $archivo; done
+ 1197  find ../
+ 1198  find ../ -name datos
+ 1199  find ../ -name "datos"
+ 1200  find ../ -name "*datos*"
+ 1201  find ../ -name "*.xls"
+ 1202  for archivo in `find ../ -name "*.xls"`; do ls -l $archivo; done 
+ 1203  tree ../
+ 1204  rm ../hojasDatos/dato_0.out 
+ 1205  tree ../
+ 1206  rm  -r ../hojasDatos/datos_csv/
+ 1207  tree ../
+ 1208  bash graficar.sh 
+ 1209  tree ../
+ 1210  tree -l ../
+ 1211  tree -p ../
+ 1212  ls ../hojasDatos/datos_csv/
+ 1213  ls ../hojasDatos/datos_csv/ -l
+ 1214  ls ../hojasDatos/datos_csv/ -lh
+ 1215  less ../hojasDatos/datos_csv/dato-0.csv 
+ 1216  ls -l
+ 1217  less error1.log 
+ 1218  ls
+ 1219  cd ..
+ 1220  ls
+ 1221  cd hojasDatos/
+ 1222  ls
+ 1223  ls -l
+ 1224  cd datos_csv/
+ 1225  ls -l
+ 1226  head dato-0.csv 
+ 1227  cat dato-0.csv  
+ 1228  cat dato-0.csv  | awk -F "\",\"" `{print $1 $2 $3 $4 $5}` | head
+ 1229  cat dato-0.csv  | awk -F "\",\"" '{print $1 $2 $3 $4 $5}' | head
+ 1230  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | head
+ 1231  cd ..
+ 1232  cd .
+ 1233  cd ..
+ 1234  ls
+ 1235  git status 
+ 1236  ls
+ 1237  tree
+ 1238  git add .
+ 1239  git status 
+ 1240  git commit
+ 1241  git log
+ 1242  sudo update-alternatives --config editor
+ 1243  git remote -v
+ 1244  git status 
+ 1245  git push -u github master
+ 1246  git status 
+ 1247  ls
+ 1248  cd hojasDatos/
+ 1249  kls
+ 1250  ls
+ 1251  cd ca
+ 1252  cd datos_csv/
+ 1253  ls
+ 1254  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | head
+ 1255  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | head | grep -v Sensor
+ 1256  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | grep -v Sensor | sed '1,
+ 1257  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | grep -v Sensor | sed '1,$ s/"//g'
+ 1258  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | grep -v Sensor | sed '1,$ s/"//g' | e
+ 1259  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | grep -v Sensor | sed '1,$ s/"//g' | head
+ 1260  cat dato-0.csv  | awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " "  $5}' | grep -v Sensor | sed '1,$ s/"//g'
+ 1261  cd ..
+ 1262  ls
+ 1263  cd src/
+ 1264  ls
+ 1265  bash graficar.sh 
+ 1266  tree ../
+ 1267  head ../hojasDatos/datos_csv/dato-0.out 
+ 1268  cd ..
+ 1269  ls
+ 1270  cd history/
+ 1271  ls
+ 1272  history > history 
+ 1273  cd ..
+ 1274  ls
+ 1275  git status
+ 1276  git add hojasExcel/
+ 1277  git status 
+ 1278  git add history/
+ 1279  git status 
+ 1280  git commit -m "Datos listos para graficar + history"
+ 1281  git push -u github master
+ 1282  exit
+ 1283  cd /media/instructor/uk/
+ 1284  ls
+ 1285  cd LXS2/
+ 1286  ls
+ 1287  cd clase5/
+ 1288  ls
+ 1289  cd S5/
+ 1290  ls
+ 1291  cd problemas/
+ 1292  ls
+ 1293  cd problema
+ 1294  cd problema1/
+ 1295  ls
+ 1296  ls -l
+ 1297  less problema1.0.sh 
+ 1298  cat problema1.0.sh 
+ 1299  cd /media/
+ 1300  ls
+ 1301  cd instructor/
+ 1302  l;s
+ 1303  ls
+ 1304  cd i
+ 1305  cd uk/
+ 1306  ls
+ 1307  cd LXS2/
+ 1308  ls
+ 1309  cd clase5/
+ 1310  ls
+ 1311  cd S5/
+ 1312  ls
+ 1313  cd pro
+ 1314  cd proyectoFinal/
+ 1315  ls
+ 1316  cd problema3/
+ 1317  ls
+ 1318  vim Datos 
+ 1319  cd ls
+ 1320  ls
+ 1321  cd ..
+ 1322  cd..
+ 1323  ls
+ 1324  cd ..
+ 1325  ls
+ 1326  cd docs/
+ 1327  ls
+ 1328  tree
+ 1329  touch permisos/mail-`date +%M%Y`.out 
+ 1330  touch permisos/mail-`date +%M%d`.out 
+ 1331  tree permisos/
+ 1332  git status 
+ 1333  git add permisos/
+ 1334  git status 
+ 1335  dmesg | tail > permisos/mail-502016.out 
+ 1336  dmesg | head > permisos/mail-5029.out 
+ 1337  git status 
+ 1338  git add permisos/
+ 1339  git status 
+ 1340  git commit -m "Archivos para git mv"
+ 1341  git log
+ 1342  tree
+ 1343  git mv permisos/mail-502016.out RecSession/
+ 1344  git rm -r permisos/
+ 1345  git status 
+ 1346  git commit -m "Ejemplo de mv hecho"
+ 1347  git status 
+ 1348  tree
+ 1349  git log
+ 1350  git  checkout 8e2d35ba66cff2d7dabb126914c682f3263fdb58
+ 1351  git branch
+ 1352  gitk
+ 1353  tree
+ 1354  git log
+ 1355  git checkout HEAD
+ 1356  git log
+ 1357  tree
+ 1358  git status
+ 1359  git log
+ 1360  git status 
+ 1361  gitk
+ 1362  git log --decorate
+ 1363  gitk
+ 1364  git ce
+ 1365  git checkout master
+ 1366  git log
+ 1367  ls
+ 1368  cd ..
+ 1369  ls
+ 1370  ls -l
+ 1371  ls
+ 1372  cd fo
+ 1373  cd docs/
+ 1374  ls
+ 1375  git push github master 
+ 1376  cd /tmp/
+ 1377  ls
+ 1378  git clone https://github.com/emvarg/LX2_main_repo.git
+ 1379  sudo rm LX2_main_repo/
+ 1380  sudo rm -r  LX2_main_repo/
+ 1381  git clone https://github.com/emvarg/LX2_main_repo.git RepoEmma
+ 1382  ls
+ 1383  cd RepoEmma/
+ 1384  ls
+ 1385  sudo su -
+ 1386  su user1
+ 1387  su - user1
+ 1388  whoami 
+ 1389  su -c "touch /tmp/archivo_user1" user2
+ 1390  ls -l /tmp/
+ 1391  s
+ 1392  ls
+ 1393  ls ~/..
+ 1394  sudo adduser user1
+ 1395  sudo adduser user2
+ 1396  history | tail
+ 1397  ls ~/..
+ 1398  man su
+ 1399  screen
+ 1400  fdisk -l
+ 1401  cd ..
+ 1402  ls
+ 1403  cd ..
+ 1404  ls
+ 1405  ls tmp/
+ 1406  ls
+ 1407  cd sudo/
+ 1408  ls
+ 1409  ls -l
+ 1410  cd ..
+ 1411  ls
+ 1412  cat /etc/sudoers
+ 1413  ls
+ 1414  cd sudo/
+ 1415  ls
+ 1416  cat commandAliases 
+ 1417  exit
+ 1418  id
+ 1419  su - user1
+ 1420  less /var/mail/instructor
+ 1421  sudo which fdisk
+ 1422  su - user1
+ 1423  which passwd 
+ 1424  which useradd 
+ 1425  which adduser 
+ 1426  which userdel 
+ 1427  which usermod
+ 1428  which visudo
+ 1429  which poweroff
+ 1430  which reboot
+ 1431  which halt
+ 1432  su - user2
+ 1433  ls
+ 1434  vim /etc/sudoers
+ 1435  sudo visudo /etc/sudoers
+ 1436  sudo visudo
+ 1437  ls
+ 1438  cd src/
+ 1439  ls
+ 1440  touch algoMas
+ 1441  dmesg | head > algoMas 
+ 1442  cd ..
+ 1443  ls
+ 1444  git status 
+ 1445  git add src/algoMas 
+ 1446  git commit -m "Ejemplo de clone"
+ 1447  git remotes -v
+ 1448  git remote -v
+ 1449  git push origin master
+ 1450  pushd /media/instructor/uk/LXS2/docs/src/
+ 1451  ls
+ 1452  ls -l
+ 1453  git log
+ 1454  git pull github 
+ 1455  tree
+ 1456  git branch
+ 1457  ls -l
+ 1458  id
+ 1459  apt-cache search virtmanager
+ 1460  apt-cache search virt-manager
+ 1461  apt-cache search qemu
+ 1462  apt-cache search qemu-kvm
+ 1463  ls
+ 1464  cd ..
+ 1465  ls
+ 1466  mkdir permisos
+ 1467  cd permisos/
+ 1468  s
+ 1469  ls
+ 1470  cd ..
+ 1471  ls
+ 1472  cd ..
+ 1473  ls
+ 1474  ls sudo/
+ 1475  ls
+ 1476  cd docs/
+ 1477  ls
+ 1478  cd permisos/
+ 1479  ls
+ 1480  script -t 2> sudoers.timing -a sudoers.session
+ 1481  ls -l
+ 1482  man scriptreplay 
+ 1483  scriptreplay -t sudoers.timing sudoers.session 
+ 1484  ls
+ 1485  cd ..
+ 1486  ls
+ 1487  cd history/
+ 1488  ls
+ 1489  history > history 
+ 1490  cd ..
+ 1491  ls
+ 1492  git status
+ 1493  git add history/history 
+ 1494  git add permisos/
+ 1495  git commit -m "Ejemplo de su + history con scriptreplay"
+ 1496  git push github master 
+ 1497  ls
+ 1498  cd permisos/
+ 1499  ls
+ 1500  git rm *
+ 1501  git commit -m "Limpieza de sesiones"
+ 1502  git status 
+ 1503  cd ..
+ 1504  ls
+ 1505  git status
+ 1506  git commit -m "Limpieza de sesiones"
+ 1507  ;s
+ 1508  ls
+ 1509  mkdir sudoers
+ 1510  cd s
+ 1511  cd sudoers/
+ 1512  los
+ 1513  ls
+ 1514  script -t 2> sudoers.timing -a sudoers.session
+ 1515  ls -l
+ 1516  su - user2
+ 1517  popd
+ 1518  cd /media/
+ 1519  ls
+ 1520  cd instructor/
+ 1521  l;s
+ 1522  ;s
+ 1523  ls
+ 1524  cd
+ 1525  cd /media/instructor/uk/LXS2/docs/
+ 1526  ls
+ 1527  cd sudoers/
+ 1528  ls
+ 1529  cd ..
+ 1530  ls
+ 1531  cd sudoers/
+ 1532  ls
+ 1533  script -t 2> sudoers-2.0.timing -a sudoers-2.0.session
+ 1534  ls
+ 1535  cd ..
+ 1536  ls
+ 1537  git status 
+ 1538  git add sudoers/
+ 1539  git status 
+ 1540  git commit -m "ejemplo Fallido de sudoersgit status !"
+ 1541  git push github master
+ 1542  ls
+ 1543  cd history/
+ 1544  ls
+ 1545  history > history 
